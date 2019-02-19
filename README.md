@@ -13,6 +13,7 @@ The language is Chinese, spare my poor English please.
 * **Plot Exploration**
 * **Behavior Tree**
 * **State Machine**
+* **Skill Cast**
 
 ## Getting Started
 
